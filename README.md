@@ -31,3 +31,53 @@ OTP         send a new noirgate otp
 -------------------
   Shell As A Service ®
 ```
+
+### Includes
+
+Cloud Clients
+
+  * aws - amazon web services cli
+  * az - azure cloud cli
+  * gcloud - google cloud cli
+  * kubectl/k - kubernetes api client
+
+Misc Clients
+
+  * wget
+  * curl
+  * w3m - text www browser
+  * lynx - text www browser
+  * mssql-cli - mssql client
+  * pgcli - postgres client
+  * graphcurl - graphql client
+
+Security Tools
+
+  * heatlevel - Current tor node IP and rating L:✅/M:⚠️/H:🔥
+  * msf - metasploit framework
+  * nmap - the network mapper
+  * aterm - ASHIRT terminal client
+  * tor/torsocks - torified shell
+  * mitmproxy
+  * forensics-all - debian forensics tools
+  * oletools - python tools to analyze MS OLE2 files - GitHub
+  * pdfid - pdf forensics
+
+Dev Tools
+
+  * git
+  * go
+  * python
+  * irb
+  * node
+
+General
+
+  * jq
+  * htop
+  * nano
+  * vim
+  * bash
+  * zsh
+
+
